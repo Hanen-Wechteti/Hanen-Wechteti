@@ -6,7 +6,14 @@ Actually, I'm in the process of learning at BeCode Charleroi.
 
 -🌱 I am currently training to become a junior web developer.
 
--📫 Feel free to reach out to me at [hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
+-📫 Feel free to reach out to me at 
+
+[hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
+
+[![linkedin](linkedin.svg)](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)
+
+[![github](github.svg))](https://github.com/Hanen-Wechteti)
+
 
 ## 🛠 My Skills
 I'm actively refining my skills in:
@@ -44,3 +51,6 @@ Here are some ideas to get you started:
 Feel free to connect with me on [LinkedIn](#) to stay updated on my journey and explore potential collaborations.
 
 -->
+
+
+
