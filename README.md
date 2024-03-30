@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hanen
 
-I'm currently a learner at BeCode Charleroi.
+Actually, I'm in the process of learning at BeCode Charleroi.
 
 ## About Me
 
@@ -9,7 +9,7 @@ I'm currently a learner at BeCode Charleroi.
 -📫 Feel free to reach out to me at [hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
 
 ## 🛠 My Skills
-I'm currently refining my skills in:
+I'm actively refining my skills in:
 
 ### Languages
 - HTML
