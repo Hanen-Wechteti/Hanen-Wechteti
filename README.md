@@ -10,12 +10,8 @@ Actually, I'm in the process of learning at BeCode Charleroi.
 
 [hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
 
-[<img src="linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)
 
-[<img src="github.svg" width="30" height="30">](https://github.com/Hanen-Wechteti)
-
-
-## 🛠 My Skills
+## 📌 My Skills
 I'm actively refining my skills in:
 
 ### Languages
@@ -32,6 +28,11 @@ I'm actively refining my skills in:
 - Figma
 - Git
 - Code Editors: VS Code
+
+## 🌐 Platforms & Contact
+
+[<img src="linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)  [<img src="github.svg" width="30" height="30">](https://github.com/Hanen-Wechteti)
+
 
 
 <!--
