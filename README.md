@@ -30,9 +30,9 @@ I'm actively refining my skills in:
 - Code Editors: VS Code
 
 ## 🌐 Platforms & Contact
-
+<div style="text-align: center;">
 [<img src="linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)  [<img src="github.svg" width="30" height="30">](https://github.com/Hanen-Wechteti)
-
+</div>
 
 
 <!--
