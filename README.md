@@ -13,9 +13,9 @@ I'm currently refining my skills in:
 
 ### Languages
 - HTML
-- CSS (including Sass)
+- CSS / Sass
 - JavaScript
-- PHP (with knowledge in OOP, MVC, namespace, and API)
+- PHP 
 - MySQL
 - Python
 
