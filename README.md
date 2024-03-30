@@ -10,9 +10,9 @@ Actually, I'm in the process of learning at BeCode Charleroi.
 
 [hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
 
-[![linkedin](linkedin.svg)](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)
+[<img src="linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)
 
-[![github](github.svg))](https://github.com/Hanen-Wechteti)
+[<img src="github.svg" width="30" height="30">](https://github.com/Hanen-Wechteti)
 
 
 ## 🛠 My Skills
