@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hanen
 
-<img align="right" alt="GIF" src="./Hello.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./Hello.gif" width="300" height="200" />
 
 Actually, I'm in the process of learning at BeCode Charleroi.
 
@@ -9,7 +9,6 @@ Actually, I'm in the process of learning at BeCode Charleroi.
 -🌱 I am currently training to become a junior web developer.
 
 -📫 Feel free to reach out to me at 
-[hanenwechteti27@gmail.com](hanenwechteti27@gmail.com)
 
 
 ## 📌 My Skills
@@ -50,6 +49,21 @@ I'm actively refining my skills in:
   </a>
 </p>
 
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=sql&logoColor=white)](https://sql.sh/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+<img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,javascript,php,mysql,python,postgresql,django,," alt="Skills Icons">
+
+
 ### Tools
 - [GitHub](https://github.com/)
 - [Canva](https://www.canva.com/)
@@ -67,27 +81,12 @@ I'm actively refining my skills in:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
 
 ## 🌐 Platforms & Contact
+
 <div align="center">
-[<img src="linkedin.svg" width="30" height="30">](https://www.linkedin.com/in/hanen-wechteti-2542552a0/)  [<img src="github.svg" width="30" height="30">](https://github.com/Hanen-Wechteti)
+  <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
+  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular.svg" width="30" height="30"></a> &nbsp;
+  <a href="https://github.com/Hanen-Wechteti"><img src="github.svg" width="40" height="40"></a>
+  
 </div>
-
-<!--
-**Hanen-Wechteti/Hanen-Wechteti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## 🔗 Connect with Me
-Feel free to connect with me on [LinkedIn](#) to stay updated on my journey and explore potential collaborations.
-
--->
-
 
 
