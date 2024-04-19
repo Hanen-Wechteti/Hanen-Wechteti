@@ -1,13 +1,7 @@
-### Hi there 👋 I'm Hanen <img alt="GIF" src="./Hello.gif" width="300" height="200" />
+<img align="center" alt="GIF" src="./Hello.gif" width="300" height="200" />
 
-Actually, I'm in the process of learning at BeCode Charleroi.
-</div>
-## About Me
-
--🌱 I am currently training to become a junior web developer.
-
--📫 Feel free to reach out to me at 
-
+### Hi there 👋 I'm Hanen 
+Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
 
 ## 📌 My Skills
 I'm actively refining my skills in:
@@ -47,7 +41,7 @@ I'm actively refining my skills in:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
-  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular(1).svg" width="30" height="30"></a> &nbsp;
+  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a> &nbsp;
   <a href="https://github.com/Hanen-Wechteti"><img src="github.svg" width="30" height="30"></a>
   
 </div>
