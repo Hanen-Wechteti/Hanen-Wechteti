@@ -16,11 +16,11 @@ I'm actively refining my skills in:
 
 ### Languages
 - HTML
-- CSS / Sass
+- CSS / Sass / Tailwind
 - JavaScript
-- PHP 
-- MySQL
-- Python
+- PHP / MySQL 
+- Python / PostgreSQL
+- Django
 
 ### Tools
 - GitHub
