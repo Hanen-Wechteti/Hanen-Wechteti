@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="./Hello.gif" width="300" height="200" />
+<img align="center" alt="GIF" src="./Hello.gif" width="500" height="300" />
 
 ### Hi there 👋 I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
@@ -33,7 +33,7 @@ I'm actively refining my skills in:
 
 ![Hanen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanen&theme=tokyonight&hide_border=true)
 
-![Hanen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bushblade&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Hanen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
 
