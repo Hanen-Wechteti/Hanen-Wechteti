@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Hanen
 
-<div align="right">
+<img align="right" alt="GIF" src="./Hello.gif" width="500" height="320" />
 
-![Form Screenshot](<IHello.gif>)
-</div>
 Actually, I'm in the process of learning at BeCode Charleroi.
 
 ## About Me
