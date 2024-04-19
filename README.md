@@ -1,5 +1,6 @@
-<img align="center" alt="GIF" src="./Hello.gif" width="500" height="300" />
-
+<div align="center">
+<img alt="GIF" src="./Hello.gif" width="500" height="300" />
+</div>
 ### Hi there 👋 I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
 
@@ -37,7 +38,7 @@ I'm actively refining my skills in:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
 
-## 🌐 Platforms & Contact
+## Find me around the web 🌐:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
