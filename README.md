@@ -32,14 +32,9 @@ I'm actively refining my skills in:
 
 ![Hanen's Stats](https://github-readme-stats.vercel.app/api?username=Hanen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Hanen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanen&theme=tokyonight&hide_border=true)
 
-![Hanen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
 
 ## Find me around the web 🌐:
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
   <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a> &nbsp;
@@ -47,4 +42,5 @@ I'm actively refining my skills in:
   
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
 
