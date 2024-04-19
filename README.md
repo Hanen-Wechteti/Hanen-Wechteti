@@ -34,21 +34,10 @@ I'm actively refining my skills in:
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanen-Wechteti" alt="Hanen" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanen-Wechtetix&hide=issues,prs&theme=dark&show_icons=true">
-</div>
-<div align="center">
-
-![Hanen's Stats](https://github-readme-stats.vercel.app/api?username=Hanen-Wechteti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<div align="center>
-
-
-
-## Find me around the web 🌐:
+## 🌐 Connect with me:
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
-  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a> &nbsp;
-  <a href="https://github.com/Hanen-Wechteti"><img src="github.svg" width="30" height="30"></a>
+  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a>
   
 </div>
 
