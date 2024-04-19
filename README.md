@@ -1,6 +1,7 @@
 <div align="center">
 <img alt="GIF" src="./Hello.gif" width="500" height="300" />
 </div>
+
 ### Hi there 👋 I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
 
@@ -21,16 +22,25 @@ I'm actively refining my skills in:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-
 ### Tools
 - [GitHub](https://github.com/)
 - [Canva](https://www.canva.com/)
 - [Figma](https://www.figma.com/)
 - Code Editors: [VS Code](https://code.visualstudio.com/)
 
+## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
+<div align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanen-Wechteti" alt="Hanen" />
+</div>
 
-![Hanen's Stats](https://github-readme-stats.vercel.app/api?username=Hanen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanen-Wechtetix&hide=issues,prs&theme=dark&show_icons=true">
+</div>
+<div align="center">
+
+![Hanen's Stats](https://github-readme-stats.vercel.app/api?username=Hanen-Wechteti&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center>
 
 
 
