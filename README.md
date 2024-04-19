@@ -2,7 +2,7 @@
 <img alt="GIF" src="./Hello.gif" width="500" height="300" />
 </div>
 
-### Hi there 👋 I'm Hanen 
+### Hi, I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
 
 ## 📌 My Skills
@@ -28,7 +28,7 @@ I'm actively refining my skills in:
 - [Figma](https://www.figma.com/)
 - Code Editors: [VS Code](https://code.visualstudio.com/)
 
-## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Stats
 
 <div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hanen-Wechteti" alt="Hanen" />
