@@ -1,10 +1,9 @@
-<div align="center">
-<img alt="GIF" src="./Hello.gif" width="500" height="300" />
-</div>
 
 ### Hi, I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
-
+<div align="right">
+<img alt="GIF" src="./Hello.gif" width="250" height="100" />
+</div>
 ## 📌 My Skills
 I'm actively refining my skills in:
 
