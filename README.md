@@ -1,5 +1,5 @@
 
-### Hi, I'm Hanen <img align="right" alt="GIF" src="./Hello.gif" width="400" height="200" />
+### Hi, I'm Hanen <img align="right" alt="GIF" src="./Hello.gif" width="350" height="200" />
 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
   <br><br><br><br>
