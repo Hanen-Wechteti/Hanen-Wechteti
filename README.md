@@ -1,14 +1,8 @@
-<div style="display: flex; align-items: center;">
-    <div style="flex-grow: 1;">
-        <h3>Hi, I'm Hanen</h3>
-        <p>Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.</p>
-    </div>
-    <div style="margin-left: 20px;">
-        <img align="right" alt="GIF" src="./Hello.gif" width="300" height="200" />
-    </div>
-</div>
 
+### Hi, I'm Hanen <img align="right" alt="GIF" src="./Hello.gif" width="300" height="200" />
 
+Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.</p>
+  
 
 
 ## 📌 My Skills
