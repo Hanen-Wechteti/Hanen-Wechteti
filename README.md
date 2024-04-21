@@ -1,9 +1,10 @@
 
 ### Hi, I'm Hanen 
 Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
-<div align="right">
-<img alt="GIF" src="./Hello.gif" width="250" height="100" />
-</div>
+<img alt="GIF" src="./Hello.gif" width="300" height="200" />
+
+
+
 ## 📌 My Skills
 I'm actively refining my skills in:
 
