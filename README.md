@@ -1,6 +1,3 @@
-
-### Hi, I'm Hanen 
-
 <div style="display: flex; align-items: center;">
     <div style="flex-grow: 1;">
         <h3>Hi, I'm Hanen</h3>
