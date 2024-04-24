@@ -6,7 +6,7 @@ Actually, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
 I am interested in and focused on Python, and currently I am learning it.
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-Currently, I am working on an application 🩺[HealthLink](https://github.com/Hanen-Wechteti/HealthLink) : Nursing Management Platform using Python and django, to practice and improve my development skills.
+Currently, I am working on an application 🩺[HealthLink](https://github.com/Hanen-Wechteti/HealthLink) (Nursing Management Platform) using Python and django, to practice and improve my development skills.
 
 ## 📌 My Skills
 I'm actively refining my skills in:
