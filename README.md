@@ -40,7 +40,7 @@ I'm actively refining my skills in:
 ## 🌐 Contact & Platforms:
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
-  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a>
+  <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a> &nbsp;
   <a href="https://www.codewars.com/users/Hanen%20W"><img src="codewars2.svg" width="30" height="30"></a>
 </div>
 
