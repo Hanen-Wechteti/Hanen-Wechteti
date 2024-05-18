@@ -1,8 +1,13 @@
 
-### Hi, I'm Hanen <img align="right" alt="GIF" src="./Hello.gif" width="400" height="200" />
+### Hi, I'm Hanen <img align="right" alt="GIF" src="./Hello.gif" width="350" height="200" />
 
-Actually, I'm in the process of learning at BeCode Charleroi to become a junior web developer.
-  <br><br>
+## About me
+Actually, I'm a trainee at [BeCode.org](https://github.com/becodeorg). <br>
+I'm interested in and focused on Python, and currently I'm learning it.
+
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+Currently, I'm working on an application 🩺[HealthLink](https://github.com/Hanen-Wechteti/HealthLink) (Nursing Management Platform) using Python and django, to practice and improve my development skills.
+
 ## 📌 My Skills
 I'm actively refining my skills in:
 
