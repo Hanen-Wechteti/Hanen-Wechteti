@@ -41,7 +41,7 @@ I'm actively refining my skills in:
 <div align="center">
   <a href="https://www.linkedin.com/in/hanen-wechteti-2542552a0/"><img src="linkedin.svg" width="30" height="30"></a> &nbsp;
   <a href="mailto:hanenwechteti27@gmail.com"><img src="envelope-regular (1).svg" width="30" height="30"></a> &nbsp;
-  <a href="https://www.codewars.com/users/Hanen%20W"><img src="codewars2.svg" width="30" height="30"></a>
+//  <a href="https://www.codewars.com/users/Hanen%20W"><img src="codewars2.svg" width="30" height="30"></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hanen&label=Profile%20views&color=0e75b6&style=flat" alt="Hanen" /> </p>
